@@ -1,0 +1,21 @@
+﻿img[alt="Swagger UI"] {
+    display: block;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    /* content: url('../images/logo.png');*/
+    content: url('https://cvmendozacr.com/images/LOGO1.svg'); /* Change the logo*/
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.swagger-section #header {
+    background-color: #2CA8FF !important; /* Change the color of the header section*/
+}
+
+.swagger-ui .topbar {
+    background-color: #051E2F !important; /* Change the color of the topbar */
+    border-top: 12px solid #2CA8FF !important;
+    border-bottom: 12px solid #2CA8FF !important;
+    border-right: 12px solid whitesmoke !important;
+    border-left: 12px solid whitesmoke !important;
+}
