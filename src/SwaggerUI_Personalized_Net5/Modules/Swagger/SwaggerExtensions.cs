@@ -15,7 +15,7 @@ namespace SwaggerUI_Personalized.Modules.Swagger
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "Version .Net 5.0.400",
-                    Title = "Swagger UI Personalized",
+                    Title = "Swagger UI Personalized .Net 5",
                     Description = " Thanks for sharing.",
                     TermsOfService = new Uri("https://cvmendozacr.com/"),
                     Contact = new OpenApiContact
