@@ -13,7 +13,7 @@ namespace SwaggerUI_Personalized_Net6.Modules.Swagger
                 {
                     Version = "Version .Net 6.0.400",
                     Title = "Swagger UI Personalized .Net 6",
-                    Description = " Thanks for sharing jordi.",
+                    Description = " Thanks for sharing.",
                     TermsOfService = new Uri("https://cvmendozacr.com/"),
                     Contact = new OpenApiContact
                     {
