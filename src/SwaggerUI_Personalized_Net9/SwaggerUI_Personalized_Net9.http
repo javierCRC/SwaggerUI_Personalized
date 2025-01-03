@@ -1,0 +1,6 @@
+@SwaggerUI_Personalized_Net9_HostAddress = http://localhost:5144
+
+GET {{SwaggerUI_Personalized_Net9_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
